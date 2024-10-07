@@ -1,0 +1,33 @@
+[{
+  "file": "F:\\c++_program\\STL\\STL\\useCaseSTL\\main.cpp",
+  "directory": "F:\\c++_program\\STL\\STL\\useCaseSTL",
+  "command": "clang++ -c F:\\c++_program\\STL\\STL\\useCaseSTL\\main.cpp -o F:\\c++_program\\STL\\STL\\useCaseSTL\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "F:\\c++_program\\STL\\STL\\mapSTL\\main.cpp",
+  "directory": "F:\\c++_program\\STL\\STL\\mapSTL",
+  "command": "clang++ -c F:\\c++_program\\STL\\STL\\mapSTL\\main.cpp -o F:\\c++_program\\STL\\STL\\mapSTL\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "F:\\c++_program\\STL\\STL\\listchallangeSTL\\main.cpp",
+  "directory": "F:\\c++_program\\STL\\STL\\listchallangeSTL",
+  "command": "clang++ -c F:\\c++_program\\STL\\STL\\listchallangeSTL\\main.cpp -o F:\\c++_program\\STL\\STL\\listchallangeSTL\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "F:\\c++_program\\STL\\STL\\dequeSTL\\main.cpp",
+  "directory": "F:\\c++_program\\STL\\STL\\dequeSTL",
+  "command": "clang++ -c F:\\c++_program\\STL\\STL\\dequeSTL\\main.cpp -o F:\\c++_program\\STL\\STL\\dequeSTL\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "F:\\c++_program\\STL\\STL\\vectorSTL\\main.cpp",
+  "directory": "F:\\c++_program\\STL\\STL\\vectorSTL",
+  "command": "clang++ -c F:\\c++_program\\STL\\STL\\vectorSTL\\main.cpp -o F:\\c++_program\\STL\\STL\\vectorSTL\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "F:\\c++_program\\STL\\STL\\stdArraySTL\\main.cpp",
+  "directory": "F:\\c++_program\\STL\\STL\\stdArraySTL",
+  "command": "clang++ -c F:\\c++_program\\STL\\STL\\stdArraySTL\\main.cpp -o F:\\c++_program\\STL\\STL\\stdArraySTL\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "F:\\c++_program\\STL\\STL\\AlgorthimSTL\\main.cpp",
+  "directory": "F:\\c++_program\\STL\\STL\\AlgorthimSTL",
+  "command": "clang++ -c F:\\c++_program\\STL\\STL\\AlgorthimSTL\\main.cpp -o F:\\c++_program\\STL\\STL\\AlgorthimSTL\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "F:\\c++_program\\STL\\STL\\iteratorsSTL\\main.cpp",
+  "directory": "F:\\c++_program\\STL\\STL\\iteratorsSTL",
+  "command": "clang++ -c F:\\c++_program\\STL\\STL\\iteratorsSTL\\main.cpp -o F:\\c++_program\\STL\\STL\\iteratorsSTL\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

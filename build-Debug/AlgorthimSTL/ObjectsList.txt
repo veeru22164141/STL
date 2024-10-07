@@ -1,0 +1,1 @@
+../build-Debug/AlgorthimSTL/main.cpp.o   

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="STL" Database="" Version="10000">
+  <Project Name="iteratorsSTL" Path="iteratorsSTL/iteratorsSTL.project" Active="No"/>
+  <Project Name="AlgorthimSTL" Path="AlgorthimSTL/AlgorthimSTL.project" Active="No"/>
+  <Project Name="stdArraySTL" Path="stdArraySTL/stdArraySTL.project" Active="Yes"/>
+  <Project Name="vectorSTL" Path="vectorSTL/vectorSTL.project" Active="No"/>
+  <Project Name="dequeSTL" Path="dequeSTL/dequeSTL.project" Active="No"/>
+  <Project Name="listchallangeSTL" Path="listchallangeSTL/listchallangeSTL.project" Active="No"/>
+  <Project Name="mapSTL" Path="mapSTL/mapSTL.project" Active="No"/>
+  <Project Name="useCaseSTL" Path="useCaseSTL/useCaseSTL.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="iteratorsSTL" ConfigName="Debug"/>
+      <Project Name="AlgorthimSTL" ConfigName="Debug"/>
+      <Project Name="stdArraySTL" ConfigName="Debug"/>
+      <Project Name="vectorSTL" ConfigName="Debug"/>
+      <Project Name="dequeSTL" ConfigName="Debug"/>
+      <Project Name="listchallangeSTL" ConfigName="Debug"/>
+      <Project Name="mapSTL" ConfigName="Debug"/>
+      <Project Name="useCaseSTL" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="iteratorsSTL" ConfigName="Release"/>
+      <Project Name="AlgorthimSTL" ConfigName="Release"/>
+      <Project Name="stdArraySTL" ConfigName="Release"/>
+      <Project Name="vectorSTL" ConfigName="Release"/>
+      <Project Name="dequeSTL" ConfigName="Release"/>
+      <Project Name="listchallangeSTL" ConfigName="Release"/>
+      <Project Name="mapSTL" ConfigName="Release"/>
+      <Project Name="useCaseSTL" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
